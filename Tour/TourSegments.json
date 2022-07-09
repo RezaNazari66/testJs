@@ -1,0 +1,106 @@
+﻿[
+  {
+    "type": "NationalNumber",
+    "title": "مسافر ایرانی",
+    "fields": [
+      {
+        "type": "TITLE",
+        "value": "اطلاعات عمومی"
+      },
+      {
+        "type": "MESSAGE",
+        "value": "اطلاعات مسافران باید کامل منطبق با مدارک شناسایی باشد"
+      },
+      {
+        "type": "FIELD",
+        "value": "NamePersian"
+      },
+      {
+        "type": "FIELD",
+        "value": "LastNamePersian"
+      },
+      {
+        "type": "FIELD",
+        "value": "Name"
+      },
+      {
+        "type": "FIELD",
+        "value": "LastName"
+      },
+      {
+        "type": "FIELD",
+        "value": "BirthDate"
+      },
+      {
+        "type": "FIELD",
+        "value": "Gender"
+      },
+      {
+        "type": "TITLE",
+        "value": "کد ملی"
+      },
+      {
+        "type": "SUBTITLE",
+        "value": "کد ملی برای مسافرین ایرانی که قصد سفر های داخل ایران را دارند مورد نیاز است"
+      },
+      {
+        "type": "FIELD",
+        "value": "NationalNumber"
+      }
+    ]
+  },
+  {
+    "type": "Passport",
+    "title": "مسافر غیرایرانی",
+    "fields": [
+      {
+        "type": "TITLE",
+        "value": "اطلاعات عمومی"
+      },
+      {
+        "type": "MESSAGE",
+        "value": "اطلاعات مسافران باید کامل منطبق با مدارک شناسایی باشد"
+      },
+      {
+        "type": "FIELD",
+        "value": "Name"
+      },
+      {
+        "type": "FIELD",
+        "value": "LastName"
+      },
+      {
+        "type": "FIELD",
+        "value": "BirthDate"
+      },
+      {
+        "type": "FIELD",
+        "value": "Gender"
+      },
+      {
+        "type": "TITLE",
+        "value": "اطلاعات پاسپورت"
+      },
+      {
+        "type": "SUBTITLE",
+        "value": "اطلاعات پاسپورت برای مسافرین ایرانی که قصد سفر های خارجی را دارند و همچنین مسافرین غیرایرانی که قصد استفاده از هر نوع خدماتی را داشته باشند مورد نیاز است"
+      },
+      {
+        "type": "FIELD",
+        "value": "PassportNumber"
+      },
+      {
+        "type": "FIELD",
+        "value": "ExpiryDate"
+      },
+      {
+        "type": "FIELD",
+        "value": "PlaceOfIssue"
+      },
+      {
+        "type": "FIELD",
+        "value": "PlaceOfBirth"
+      }
+    ]
+  }
+]
